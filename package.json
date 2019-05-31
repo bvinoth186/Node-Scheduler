@@ -1,0 +1,24 @@
+{
+  "name": "node-scheduler",
+  "version": "1.0.0",
+  "description": "Node Scheduler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvinoth186/Node-Scheduler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvinoth186/Node-Scheduler/issues"
+  },
+  "homepage": "https://github.com/bvinoth186/Node-Scheduler#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "node-cron": "^2.0.3"
+  }
+}
